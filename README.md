@@ -1,4 +1,4 @@
-# Mini Project 
+# XV6 Operating System
 
 ## System Calls
 ---
