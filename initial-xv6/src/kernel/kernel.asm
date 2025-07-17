@@ -3446,7 +3446,7 @@ Disassembly of section .text:
     800024a2:	e022                	sd	s0,0(sp)
     800024a4:	0800                	add	s0,sp,16
     800024a6:	00000097          	auipc	ra,0x0
-    800024aa:	b1a080e7          	jalr	-1254(ra) # 80001fc0 <mlfq_scheduler>
+    800024aa:	f48080e7          	jalr	-184(ra) # 800023ee <rr_scheduler>
 
 00000000800024ae <sched>:
     800024ae:	7179                	add	sp,sp,-48
